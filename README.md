@@ -9,7 +9,6 @@ When Uninstall the uninstaller will remove the user from Log on as a service pro
 Cleanup installation directory.
 
 Test: 
-
 Install then go to (Local Security Policy -> Local Policies -> User Rights Assignment -> Log on as a service) properties
 the "DemoService-User" will be in the list.
 Uninstall then go to (Local Security Policy -> Local Policies -> User Rights Assignment -> Log on as a service) properties
