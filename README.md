@@ -8,7 +8,8 @@ Stop service will log service stop time
 When Uninstall the uninstaller will remove the user from Log on as a service properties. (Remove rights SeServiceLogonRight)
 Cleanup installation directory.
 
-Test:
+Test: 
+
 Install then go to (Local Security Policy -> Local Policies -> User Rights Assignment -> Log on as a service) properties
 the "DemoService-User" will be in the list.
 Uninstall then go to (Local Security Policy -> Local Policies -> User Rights Assignment -> Log on as a service) properties
