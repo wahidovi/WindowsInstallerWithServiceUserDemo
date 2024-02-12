@@ -1,4 +1,4 @@
-#A simple Windows service installer project DEMO
+# A simple Windows service installer project DEMO
 
 The installer will create a Windows User ("DemoService-User")
 Give the user Log on as a Service
